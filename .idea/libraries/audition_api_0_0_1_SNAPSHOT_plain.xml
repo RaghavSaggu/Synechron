@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="audition-api-0.0.1-SNAPSHOT-plain">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Synechron/build/libs/audition-api-0.0.1-SNAPSHOT-plain.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
